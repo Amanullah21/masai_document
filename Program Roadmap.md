@@ -13,12 +13,14 @@
 ### **3. Adding Modules to the Roadmap**  
 1. Click the **Create or Manage Module** button.  
 2. Click **Create New Module** and enter:
-   <p><a href="/Module">Module creation </a></p>
-   
+   <p><a href="/Module">Module creation </a></p> 
    - **Module Name**  
    - **Module Description**  
-   - Click **Create Module** to save it.  
-4. You can create multiple modules as needed.  
+   - Click **Create Module** to save it. 
+   
+<img width="959" alt="Create and manage module in roadmap page" src="https://github.com/user-attachments/assets/e7115edd-4cca-40db-8574-6ec79a87f0cf" />
+
+3. You can create multiple modules as needed.  
 
 ### **4. Linking Modules to the Roadmap**  
 1. Click the **Link Module to Current Roadmap** button.
