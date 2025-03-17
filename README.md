@@ -1,4 +1,4 @@
-# Content
+# Pubish Content
 ## Publish Recording Video
 
 **Step 1:** Click on the **Create Video** button.
