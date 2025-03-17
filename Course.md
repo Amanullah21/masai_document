@@ -13,7 +13,7 @@
    - **End Date**  
    - **Status**  
    - **Select Course Template**
-     <p><a href="Course Template">Create Course Template</a></p>
+     <p><a href="Course Template.md">Create Course Template</a></p>
    - **Select Course User Group**  
    - **Make a Team**  
 
