@@ -1,4 +1,4 @@
-# ** Creating  Course Templates**  
+# **Creating  Course Templates**  
 
 ## **1. Navigating to the Course Template Section**  
 1. Click on the **Course** tab to access the **Module** section.  
