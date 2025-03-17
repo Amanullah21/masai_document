@@ -10,6 +10,7 @@
    - **Module Name**  
    - **Module Description**  
 3. Click the **Create Module** button to save it.  
+<img width="959" alt="Create and manage module in roadmap page" src="https://github.com/user-attachments/assets/2179884e-31e7-421f-bab0-32911a088821" />
 
 ## **3. Managing Multiple Modules**  
 - You can create multiple modules as needed.  
@@ -21,6 +22,8 @@
 3. Choose the **Initial Module**.  
 4. Click **Save** to finalize the selection.  
 
+<img width="956" alt="Select Module" src="https://github.com/user-attachments/assets/2202d762-75e5-4859-8c8a-468ed74278ca" />
+
 ## **5. Assigning a Course Template to a Module**  
 1. Click on a newly created module. 
 <p><a href="/Course Template.md">Create New Course Template</a></p>
@@ -28,6 +31,9 @@
 3. Select the required **Course Template**.  
 4. Choose the **Initial Course Template**.  
 5. Click the **Assign Template** button.  
+
+<img width="959" alt="Select Course Template" src="https://github.com/user-attachments/assets/38d929e7-7e96-429d-9ea7-98e4f9aff774" />
+
 
 ## **6. Configuring Module Progression**  
 1. View the list of linked modules.  
