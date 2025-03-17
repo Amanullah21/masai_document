@@ -5,6 +5,7 @@
 
 ### **2. Creating a Program Roadmap**  
 1. Click the **Create Roadmap** button.
+   
 <img width="945" alt="Roadmap1" src="https://github.com/user-attachments/assets/9d7ccef3-a85b-49c8-95a2-22882bf2ca3a" />
 
 2. Enter the **Roadmap Name** and click the **Create** button.  
@@ -14,9 +15,11 @@
 1. Click the **Create or Manage Module** button.  
 2. Click **Create New Module** and enter:
    <p><a href="/Module">Module creation </a></p> 
+   
    - **Module Name**  
    - **Module Description**  
    - Click **Create Module** to save it. 
+
    
 <img width="959" alt="Create and manage module in roadmap page" src="https://github.com/user-attachments/assets/e7115edd-4cca-40db-8574-6ec79a87f0cf" />
 
