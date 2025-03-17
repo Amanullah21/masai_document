@@ -27,6 +27,7 @@
 3. Choose the **Initial Module**.  
 4. Click **Save** to finalize the selection.  
 <img width="956" alt="Select Module" src="https://github.com/user-attachments/assets/f97cfda2-8eda-43be-9402-c03a76d5a030" />
+
 ## **5. Configuring Module Progression**  
 1. View the list of created and selected modules.  
 2. Link modules using **Pass & Fail** conditions.  
